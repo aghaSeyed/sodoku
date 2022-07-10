@@ -9,6 +9,7 @@ so all actions which happen in 2 different browser tab is real-time
 there is no complex installation. just run server.php as a server
 
 Player one run Sample.php file
+
 Player two run Sample2.php file
 
 Enjoy the game :)
