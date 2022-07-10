@@ -1,8 +1,8 @@
 # sodoku
-2 player sodoku game , winner is who solve pazzle faste !
+2 player sodoku game , winner is who solve pazzle faster !
 
 the main goal of this project is using socket programming through php
-so all actions which happen in 2 browser tab is real-time 
+so all actions which happen in 2 different browser tab is real-time 
 
 ## Installation
 
